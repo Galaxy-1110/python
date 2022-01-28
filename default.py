@@ -19,5 +19,5 @@ else:
     psg.click()
     print(f"\n{Fore.GREEN}U be unmuted now{Style.RESET_ALL}")
 
-#Put the keyyou have set as hotkey to play the sound in soundboard betewen ' '. (Soundboard must be running)
+#Put the key you have set as hotkey to play the sound in soundboard betewen ' '. (Soundboard must be running)
 psg.press('`')
